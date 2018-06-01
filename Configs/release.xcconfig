@@ -1,0 +1,4 @@
+#include "config.xcconfig"
+
+CODE_SIGN_IDENTITY[sdk=iphoneos*] = iPhone Distribution
+

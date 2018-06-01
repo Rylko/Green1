@@ -1,0 +1,4 @@
+app_identifier "com.forest.green1,com.forest.green1-test"      # The bundle identifier of your app
+
+team_id "Y2V6NG4VN2" # Developer Portal Team ID
+

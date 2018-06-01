@@ -1,0 +1,3 @@
+git_url("http://git.mobexs.com:8081/flipper/app-credentials.git")
+type("appstore")
+
